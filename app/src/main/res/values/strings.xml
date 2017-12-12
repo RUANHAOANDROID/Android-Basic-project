@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HT-Police</string>
+    <string name="title_media">媒体</string>
+    <string name="title_crying">紧急</string>
+    <string name="title_suspicious">疑情</string>
+    <string name="title_user">个人</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
